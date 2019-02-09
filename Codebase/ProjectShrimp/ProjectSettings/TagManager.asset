@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HidingSpot
+  - Enemy
+  - Light
+  - Interaction
+  - Detection
+  - Wall
+  - Spotlight
+  - PlayerProjectile
+  - EnemyProjectile
+  - Checkpoint
+  - Sound
+  - BreakableLight
+  - HitBox
+  - Spikes
+  - GrappleSpot
+  - Door
+  - TrapDoor
+  - Collectable
+  - BreakableHidingSpot
+  - Ground
+  - PatrolPoint
+  - GuardDetectionComponent
+  - Smoke
+  - HealthChest
+  - Floor
+  - NoiseMakerChest
+  - SmokeChest
+  - MarketLevelObjectiveDoor
+  - ResturantDoor
+  - SmokeCLoud
+  - Trap
+  - FallingObject
+  - FallingObjectRope
+  - Box
+  - SpotterGuard
+  - FinalBoss
+  - DroneGuard
+  - Pop-Ups
+  - stairs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Light
+  - Interactions
+  - Detection
+  - EnemyProjectiles
+  - Sounds
+  - PlayerProjectiles
+  - PatrolPoint
+  - Ground
+  - GrappleSpot
+  - Background
+  - Smoke
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Smoke
+    uniqueID: 1757290127
+    locked: 0
